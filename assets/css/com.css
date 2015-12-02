@@ -1,0 +1,27 @@
+@charset "utf-8";
+
+
+
+
+header {
+	background-color:red;
+	position:relative;
+}
+
+nav {
+	background-color:yellow;
+}
+
+.logo {
+	display:absolute;
+	height:
+}
+
+.infoLink {
+	background-color:skyblue;
+	text-align : right;
+}
+
+.infoLink li {
+	display:inline-block;
+}
